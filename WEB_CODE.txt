@@ -1,0 +1,64 @@
+<p>
+ <a class="byline_info_link hover_pop" href="#">
+  <span class="last_updated_highlighted">
+   Last Updated: February 27, 2022
+  </span>
+ </a>
+ <a class="byline_references" href="#References">
+  References
+ </a>
+</p>
+<p>
+ This article was co-authored by
+ <a href="/Author/Caitlin-Jaymes">
+  Caitlin Jaymes
+ </a>
+ . Caitlin Jaymes is a Closet Organizer and Fashion Stylist based in Los Angeles, California. With a background in Fashion PR and Fashion Design, she specializes in creating wardrobes for her clients with pieces they already own. She has experience working with celebrities, editorial shoots, and men and women of all ages. Caitlin uses fashion and organization to help instill and influence confidence, ambition, and stress-free lifestyles for all her clients. She runs her business by two guiding principles: “fashion has no rules, only guidance on how to look and feel your best” and “life has too many stressors, don’t let clutter be one of them.” Caitlin’s work has been featured on HGTV, The Rachael Ray Show, VoyageLA, Liverpool Los Angeles, and the Brother Snapchat Channel.
+ <br/>
+ <br/>
+ There are
+ <a href="#References">
+  11 references
+ </a>
+ cited in this article, which can be found at the bottom of the page.
+ <br/>
+ <br/>
+ This article has been viewed 80,179 times.
+</p>
+<p>
+ Whether you're packing light for a holiday, bringing the essentials for an overnight stay at a friend's or are going on a several day camping trip, being able to pack your clothing into your bag correctly can save you lots of space. You can use packing cubes to help alleviate the storing process, but even without specialized products, with a bit of thought you can pack your bag efficiently, intelligently and conveniently so that you won't have to stress when it comes to unpacking.
+</p>
+<p class="text_summary_wrapper" id="summary_text">
+ Clothes can take up a lot of space in your backpack, but by using the army rolling technique, you can store them more efficiently. To roll t-shirts, start by laying them flat on a surface and fold the left side into the center. Fold the sleeve back on itself, then do the same with the other side. Once you’ve folded both sides, fold the t-shirt vertically and roll it into a tight bundle. Use a similar technique to roll your underwear and roll your socks into balls too. If you’re packing shoes, fit your underwear and socks inside them to save space. Instead of rolling pants, fold the legs together, then fold them in half horizontally twice. When you’re packing your clothes into your bag, put light items, like t-shirts, at the bottom of the bag so heavier items will squash them down.
+ <span id="summary_last_sentence">
+  For more tips from our Travel co-author, including how to store camping equipment and toiletries in your bag, read on!
+ </span>
+ <span class="sumpos_bottom" id="summary_position">
+ </span>
+ <div class="s-help-wrap" data-type="summarytexthelp">
+  <span class="s-help-prompt">
+   Did this summary help you?
+  </span>
+  <button class="s-help-response" data-finish-prompt="Thank you! &lt;a href='#' class='firststeplink'&gt;Return to the article to learn more...&lt;/a&gt;" data-prompt-text="We are so glad to have helped!" data-textarea-prompt="Please describe what was helpful in the video..." data-type="summarytexthelp" data-value="1" type="submit">
+   Yes
+  </button>
+  <button class="s-help-response" data-finish-prompt="Sorry the summary wasn't helpful. &lt;a href='#' class='firststeplink'&gt;Return to the article to learn more...&lt;/a&gt;" data-prompt-text="Sorry that the video wasn't helpful." data-textarea-prompt="Please tell us what you would have liked to see in the video..." data-type="summarytexthelp" data-value="0" type="submit">
+   No
+  </button>
+  <div class="s-help-feedback-wrap">
+   <textarea class="s-help-textarea"></textarea>
+   <input class="s-help-submit button primary" type="button" value="Submit"/>
+  </div>
+ </div>
+</p>
+<p>
+ Follow Us
+</p>
+<p id="slider_small_headline">
+ wikiHow Tech Help Pro:
+</p>
+<p id="slider_big_headline">
+ Develop the tech skills you need for work and life
+</p>
+<p id="acb_text">
+</p>
